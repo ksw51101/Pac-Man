@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Pac-Man.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="image\wall\bitmap1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\wall\bitmap2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\wall\bitmap3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\wall\bitmap4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\wall\bitmap5.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\wall\bitmap6.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\wall\bitmap7.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\wall\bitmap8.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\power\power.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Pikachu\down\down01.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Pikachu\down\down02.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Pikachu\down\down03.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Pikachu\left\left01.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Pikachu\left\left02.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Pikachu\left\left03.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Pikachu\right\right01.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Pikachu\right\right02.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Pikachu\right\right03.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Pikachu\up\up01.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Pikachu\up\up02.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Pikachu\up\up03.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Monsterball\pokeball01.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Monsterball\pokeball02.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Monsterball\pokeball03.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Raichu\down\down01.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Raichu\down\down02.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Raichu\down\down03.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Raichu\left\left01.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Raichu\left\left02.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Raichu\left\left03.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Raichu\right\right01.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Raichu\right\right02.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Raichu\right\right03.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Raichu\up\up01.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Raichu\up\up02.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="image\character\Raichu\up\up03.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
