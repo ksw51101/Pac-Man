@@ -17,5 +17,5 @@ Visual Studio 2017
 - 시작 : 스페이스
 - 재시작 : R
 
-## 인게임 스크린샷
+## 플레이 영상
 ![Pac-Man](https://user-images.githubusercontent.com/52817679/134818775-4d65e517-a519-4b21-b717-da3bfde1d0db.gif)
