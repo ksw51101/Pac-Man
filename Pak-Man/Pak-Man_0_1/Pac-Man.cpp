@@ -329,14 +329,14 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage,
 				Ad_Pac_Position = Pac;
 				start = true;
 			}
-			if (Save_Pac_Dir != 0 && Can_I_Go(Save_Pac_Dir, -1).x != -1) {	//방향키눌렀는데 막혀서못갔었고 지금은 갈수있음
+			if (Save_Pac_Dir != 0 && Can_I_Go(Save_Pac_Dir, -1).x != -1) {	//방향키눌렀는데 막혀서 못갔었고 지금은 갈수있음
 				Pac_dir = Save_Pac_Dir;	//저장된 방향으로 변경
 				Save_Pac_Dir = 0;
 			}
 
 			precookie = 0;
 
-			for (i = 0;i < 31;i++) {	//쿠키개수세서 점수환산
+			for (i = 0;i < 31;i++) {	//쿠키개수 세서 점수환산
 				for (j = 0;j < 29;j++) {
 					if (Maze[i][j] == '.') precookie++;
 				}
