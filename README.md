@@ -1,7 +1,7 @@
 <h1 align="center">Pak-Man</h1>
 
-## 사용 프로그램
-Visual Studio 2017
+## 사용 스택
+Visual Studio 2017, C++, Windows API
 
 ## 게임 목표
 피카츄를 조작하여 몬스터볼을 피해 모든 쿠키를 획득하세요.
